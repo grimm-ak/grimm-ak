@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/grimm-ak/grimm-ak/main/profile-header.png" alt="Profile Header - Aman Kumar Singh" width="600"/>
-</div>
 
 <h1 align="center">Hi there 👋, This is Aman Kumar Singh!</h1>
 
@@ -83,8 +80,9 @@
 ---
 
 ### 🌱 I'm currently working on...
+-   **AWS Cloud Practitioner:** Since Cloud will be used one way or another be it data science or any other area why not go for it :)
 -   **End-to-End ML Project:** Developing a predictive analytics solution using real-world data, building a robust ML pipeline, and deploying with Streamlit. (Link to your project repo here once it's started!)
--   **Advanced SQL for Data Engineering:** Practicing complex queries, window functions, and database design.
+-   
 
 ---
 
