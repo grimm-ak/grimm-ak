@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, This is Aman Kumar Singh!</h1>
+<h1 align="center">Hi there 👋, I'm Aman Kumar Singh!</h1>
 
 <p align="center">
   An aspiring Data Scientist & Machine Learning Engineer, passionate about extracting insights from data and building intelligent systems. Currently focusing on mastering end-to-end ML pipelines and diving deep into Big Data technologies while also working on the cloud domain.
@@ -10,7 +10,7 @@
 ### 🚀 What I'm Currently Building & Learning
 
 -   **Deepening ML Foundations:** Mastering advanced ensemble methods like LightGBM and CatBoost, and exploring Unsupervised Learning (Clustering, Association Rules).
--   **Advanced Deep Learning:** Building foundational understanding and practical skills in ANNs, CNNs, RNNs, and Transformers (with a focus on their applications and Keras/PyTorch).
+-   **Currently preparing for the AWS Cloud Practitioner (CLF-C02) certification exam to solidify my cloud fundamentals.**
 -   **Big Data & MLOps:** Actively learning PySpark, Kafka, Docker, Kubernetes, and cloud platforms like AWS for scalable data solutions.
 -   **End-to-End Projects:** Focused on developing portfolio-worthy projects that involve data collection, cleaning, modeling, and deployment using Streamlit/FastAPI.
 
@@ -81,7 +81,7 @@
 
 ### 🌱 I'm currently working on...
 -   **AWS Cloud Practitioner:** Since Cloud will be used one way or another be it data science or any other area why not go for it :)
--   **End-to-End ML Project:** Developing a predictive analytics solution using real-world data, building a robust ML pipeline, and deploying with Streamlit. (Link to your project repo here once it's started!)
+-   **End-to-End ML Project:** Developing a predictive analytics solution using real-world data, building a robust ML pipeline, and deploying with Streamlit. 
 -   
 
 ---
