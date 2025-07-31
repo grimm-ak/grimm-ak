@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmanKumarSingh/AmanKumarSingh/main/profile-header.png" alt="Profile Header - Aman Kumar Singh" width="600"/>
+  <img src="https://raw.githubusercontent.com/grimm-ak/grimm-ak/main/profile-header.png" alt="Profile Header - Aman Kumar Singh" width="600"/>
 </div>
 
 <h1 align="center">Hi there 👋, This is Aman Kumar Singh!</h1>
