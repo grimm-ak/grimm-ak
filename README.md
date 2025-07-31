@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, This is Aman Kumar Singh!</h1>
 
 <p align="center">
-  An aspiring Data Scientist & Machine Learning Engineer from India, passionate about extracting insights from data and building intelligent systems. Currently focusing on mastering end-to-end ML pipelines and diving deep into Big Data technologies to become job-ready by October 2025.
+  An aspiring Data Scientist & Machine Learning Engineer, passionate about extracting insights from data and building intelligent systems. Currently focusing on mastering end-to-end ML pipelines and diving deep into Big Data technologies while also working on the cloud domain.
 </p>
 
 ---
@@ -22,8 +22,8 @@
 ### 🔥 My GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide=css,html,jupyter%20notebook" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=grimm-ak&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimm-ak&layout=compact&theme=dark&hide=css,html,jupyter%20notebook" alt="Top Languages" height="180px"/>
 </p>
 
 ---
