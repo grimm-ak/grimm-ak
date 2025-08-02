@@ -80,9 +80,9 @@
 ---
 
 ### 🌱 I'm currently working on...
--   **AWS Cloud Practitioner:** Since Cloud will be used one way or another be it data science or any other area why not go for it :)
--   **End-to-End ML Project:** Developing a predictive analytics solution using real-world data, building a robust ML pipeline, and deploying with Streamlit. 
--   
+-   **AWS Cloud Practitioner Certification :** Since Cloud will be used one way or another be it data science or any other area why not go for it :)
+
+  
 
 ---
 
