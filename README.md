@@ -47,7 +47,7 @@
 ### 📂 Selected Projects (SDE Focus)
 
 - **MEDEDGE Backend (Internship Project)**  
-  [GitHub](https://github.com/grimm-ak) | Node.js, Express, MongoDB, REST APIs, Docker  
+   Node.js, Express, MongoDB, REST APIs, Docker  
   - Developed distributed backend architecture, optimized latency using regional routing.  
   - Implemented secure authentication & authorization for sensitive medical data.  
   - Designed REST APIs improving system throughput by 20%.
