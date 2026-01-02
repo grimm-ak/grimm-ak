@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aman Kumar Singh!</h1>
 
 <p align="center">
-  Aspiring Software Engineer | Backend & Full-Stack Developer | Competitive Programmer
+  Aspiring Software Engineer | Backend & Full-Stack Developer | Competitive Programmer | ML Enthusiast
 </p>
 
 ---
@@ -11,18 +11,11 @@
 - **Backend & Full-Stack Development:** Building scalable systems using Node.js, Express, MongoDB, REST APIs, and Docker.
 - **Cloud & DevOps:** Preparing for AWS Cloud Practitioner certification and learning deployment pipelines, CI/CD, Docker, Kubernetes.
 - **Competitive Programming:** Actively solving problems on Codeforces and CodeChef to strengthen Data Structures, Algorithms, and problem-solving skills.
-- **System Design & Architecture:** Learning scalable architecture, microservices, concurrency, and distributed system design.
+
 
 ---
 
-### 💻 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grimm-ak&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimm-ak&layout=compact&theme=dark&hide=css,html,jupyter%20notebook" alt="Top Languages" height="180px"/>
-</p>
-
----
 
 ### 🛠️ Technologies & Tools
 
