@@ -1,14 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Aman Kumar Singh!</h1>
 
 <p align="center">
-  Aspiring Software Engineer | Backend & Full-Stack Developer | Competitive Programmer | ML Enthusiast
+  Aspiring Software Engineer | Competitive Programmer | ML Enthusiast
 </p>
 
 ---
 
 ### 🚀 What I'm Currently Building & Learning
 
-- **Backend & Full-Stack Development:** Building scalable systems using Node.js, Express, MongoDB, REST APIs, and Docker.
 - **Cloud & DevOps:** Preparing for AWS Cloud Practitioner certification and learning deployment pipelines, CI/CD, Docker, Kubernetes.
 - **Competitive Programming:** Actively solving problems on Codeforces and CodeChef to strengthen Data Structures, Algorithms, and problem-solving skills.
 
